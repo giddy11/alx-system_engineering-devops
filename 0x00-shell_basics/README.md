@@ -8,3 +8,4 @@
 # Move the file betty from /tmp/ to /tmp/my first directory.
 # Delete the file betty.The file betty is in /tmp/my first directory
 Delete the directory my_first_directory that is in the /tmp directory.
+Write a script that changes the working directory to the previous one.
