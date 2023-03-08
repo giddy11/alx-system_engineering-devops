@@ -4,4 +4,6 @@
 # Display current directory contents in a long format
 # Display current directory contents, including hidden files (starting with .). Use the long format.
 # Display current directory contents. With Long format, user and group IDS displayed numerically and hidden files
-Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+# Create a script that creates a directory named my first directory in the /tmp/ directory.
+# Move the file betty from /tmp/ to /tmp/my first directory.
+# Delete the file betty.The file betty is in /tmp/my first directory
